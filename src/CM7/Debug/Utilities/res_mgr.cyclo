@@ -1,0 +1,5 @@
+/Users/alessia/STM32CubeIDE/workspace_1.14.0/SOC2/Utilities/ResourcesManager/res_mgr.c:120:18:ResMgr_Init	9
+/Users/alessia/STM32CubeIDE/workspace_1.14.0/SOC2/Utilities/ResourcesManager/res_mgr.c:187:17:ResMgr_DeInit	4
+/Users/alessia/STM32CubeIDE/workspace_1.14.0/SOC2/Utilities/ResourcesManager/res_mgr.c:228:18:ResMgr_Request	14
+/Users/alessia/STM32CubeIDE/workspace_1.14.0/SOC2/Utilities/ResourcesManager/res_mgr.c:333:18:ResMgr_Release	7
+/Users/alessia/STM32CubeIDE/workspace_1.14.0/SOC2/Utilities/ResourcesManager/res_mgr.c:382:18:ResMgr_GetResContext	3
