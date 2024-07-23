@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SoC-Arch-polito/IPC_on_H7">
+  <a href="https://github.com/alessia30/IPC_on_H7">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
