@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alessia30/IPC_on_H7">
+  <a href="https://github.com/alessia30/IPC-on-H7">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,14 +27,14 @@
   <p align="center">
     The project consists of the design of an application that involves several peripherals of the STM32H757I-EVAL development board, a high-performance multi-core system, and the interconnection between the two on-chip cores.
     <br />
-    <a href="https://github.com/SoC-Arch-polito/IPC_on_H7/tree/main/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alessia30/IPC-on-H7/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/SoC-Arch-polito/IPC_on_H7">View Demo</a>
+    <!-- <a href="https://github.com/alessia30/IPC-on-H77">View Demo</a>
     · -->
-    <a href="https://github.com/SoC-Arch-polito/IPC_on_H7/issues">Report Bug</a>
+    <a href="https://github.com/alessia30/IPC-on-H7/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SoC-Arch-polito/IPC_on_H7/issues">Request Feature</a>
+    <a href="https://github.com/alessia30/IPC-on-H7/issues">Request Feature</a>
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Software tools:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SoC-Arch-polito/IPC_on_H7.git
+   git clone https://github.com/alessia30/IPC-on-H7.git
    ```
 2. Create a new blank STM32 project
 3. Select the board STM32H757I-EVAL
@@ -147,7 +147,7 @@ The output can be seen using any serial client tool.
 - [] Implement interrupt based on timer conversion for the ADC to regulate scan frequency (slower)
 - [] Implement lock (hardware/software) mechanism as an alternative to mailbox/OpenAMP to increase potential concurrent execution
 
-See the [open issues](https://github.com/SoC-Arch-polito/IPC_on_H7/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alessia30/IPC-on-H7/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,16 +176,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SoC-Arch-polito/IPC_on_H7.svg?style=for-the-badge
-[contributors-url]: https://github.com/SoC-Arch-polito/IPC_on_H7/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SoC-Arch-polito/IPC_on_H7.svg?style=for-the-badge
-[forks-url]: https://github.com/SoC-Arch-polito/IPC_on_H7/network/members
-[stars-shield]: https://img.shields.io/github/stars/SoC-Arch-polito/IPC_on_H7.svg?style=for-the-badge
-[stars-url]: https://github.com/SoC-Arch-polito/IPC_on_H7/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SoC-Arch-polito/IPC_on_H7.svg?style=for-the-badge
-[issues-url]: https://github.com/SoC-Arch-polito/IPC_on_H7/issues
-[license-shield]: https://img.shields.io/github/license/SoC-Arch-polito/IPC_on_H7.svg?style=for-the-badge
-[license-url]: https://github.com/SoC-Arch-polito/IPC_on_H7/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/alessia30/IPC-on-H7.svg?style=for-the-badge
+[contributors-url]: https://github.com/alessia30/IPC-on-H7/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alessia30/IPC-on-H7.svg?style=for-the-badge
+[forks-url]: https://github.com/alessia30/IPC-on-H7/network/members
+[stars-shield]: https://img.shields.io/github/stars/alessia30/IPC-on-H7.svg?style=for-the-badge
+[stars-url]: https://github.com/alessia30/IPC-on-H7/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alessia30/IPC-on-H7.svg?style=for-the-badge
+[issues-url]: https://github.com/alessia30/IPC-on-H7/issues
+[license-shield]: https://img.shields.io/github/license/alessia30/IPC-on-H7.svg?style=for-the-badge
+[license-url]: https://github.com/alessia30/IPC-on-H7/blob/master/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username -->
 [product-screenshot]: images/screenshot.png
